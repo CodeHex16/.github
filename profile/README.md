@@ -8,11 +8,14 @@ Siamo CodeHex16, il gruppo 16 del Progetto di SWE dell'Università degli Studi d
 
 ## For CodeHex16 Members
 <!-- asking to use vscode workspace to have a same develop enviroment -->
-For the best development experience, we recommend using the provided Visual Studio Code workspace. This will ensure that everyone has the same development environment. [Download the workspace here](https://codehex16.github.io/resources/workspace/vscode_workspace_v0.1.0.zip).
-1. Download the workspace.
-2. Extract the contents of the zip file.
-3. Run the ```RUN.bat``` file or ```RUN.sh``` file depending on your operating system. (I haven't test .sh file yet)
-4. Open the file ```SWE.code-workspace``` with Visual Studio Code.
+For the best development experience, we recommend using the provided Visual Studio Code workspace. This will ensure that everyone has the same development environment.
+```bash
+powershell -Command "iwr https://codehex16.github.io/resources/workspace/RUN.bat -OutFile run.bat; .\run.bat; rm run.bat"
+```
+
+```sh
+curl -s https://codehex16.github.io/resources/workspace/RUN.sh -o run.sh && bash run.sh && rm run.sh
+```
 
 <!--
 

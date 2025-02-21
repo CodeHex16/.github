@@ -1,4 +1,4 @@
-![](logo_extended_nobg.webp)
+![](https://raw.githubusercontent.com/CodeHex16/documentazione/refs/heads/main/template/images/logo_extended_b.webp)
 # Welcome to codehex16! 🚀
 
 Welcome to the official repository of **codehex16**! Here, you'll find all the code, documentation, and resources needed to get started.
